@@ -9,3 +9,12 @@ Tech Stack:
 - Pandas
 - NumPy
 - Scikit-learn
+## Dataset Description
+
+The dataset contains daily power consumption parameters such as:
+- Voltage (V)
+- Current (A)
+- Power (W)
+
+This data will be used to train machine learning models
+for energy usage prediction and anomaly detection.

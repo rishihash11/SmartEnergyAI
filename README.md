@@ -18,3 +18,7 @@ The dataset contains daily power consumption parameters such as:
 
 This data will be used to train machine learning models
 for energy usage prediction and anomaly detection.
+## Current Progress
+- Project structure created
+- Dataset loaded using Python
+- Modular code setup for future ML pipeline
